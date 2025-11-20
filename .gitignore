@@ -1,0 +1,14 @@
+*.class
+out/
+bin/
+target/
+build/
+.idea/
+.classpath
+.project
+.vscode/
+*.log
+.DS_Store
+
+# Keep data files in repo (do not ignore):
+# data/
